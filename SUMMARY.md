@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [পরিচিতি](README.md)
 * [শুরুর করার আগে](1.md)
 * [কিছু দরকারী বিষয়](2.md)
 * [কোড কমেন্টিং](3.md)
