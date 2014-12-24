@@ -19,7 +19,5 @@ def sayHello(name):
     print "Hello, "+name+" !"
 ```
 
-এই ফাংশনটিকে কল করুন এভাবে: sayHello(“maSnun”)
-
-এবার http://learnpythonthehardway.org/book/ex19.html এই পেইজ থেকে ফাংশন নিয়ে কিছু ঘাটাঘাটি করুন । ইনশা আল্লাহ, নেক্সট পোস্টে পাইথনে ফাংশনের আরো কিছু দিক নিয়ে আলোচনা করার চেষ্টা করব ।
+এই ফাংশনটিকে কল করুন এভাবে: `sayHello("maSnun")`
 
