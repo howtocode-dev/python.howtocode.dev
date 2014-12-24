@@ -7,6 +7,7 @@
 	* [স্ট্রিং অপারেশনস](string-operations.md)
 	* [লিস্টস ইন ডেপথ](lists.md)
 * [অপারেটরস](operators.md)
+* [কন্ট্রোল ফ্লো](control-flow.md)
 * [ফাংশনস](functions.md)
 * [কমান্ড লাইন](command-line.md)
 
