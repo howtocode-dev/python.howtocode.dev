@@ -4,7 +4,8 @@
 
 # বাংলায় পাইথন
 
-### [আবু আশরাফ মাসনুন ](http://masnun.me)
+<iframe scrolling="auto" frameborder="0" style="border:none; overflow:hidden; height:170px; width:100%; margin-left: 15;" allowTransparency="true" src="https://howtocode-bd.herokuapp.com/contrib/python"></iframe> 
+
 
 #### প্রারম্ভিকা
 
@@ -27,7 +28,5 @@
 এই বইটি মূলত স্বেচ্ছাশ্রমে লেখা এবং বইটি সম্পূর্ন ওপেন সোর্স । এখানে তাই আপনিও অবদান রাখতে পারেন লেখক হিসেবে । আপনার কন্ট্রিবিউশান গৃহীত হলে অবদানকারীদের তালিকায় আপনার নাম যোগ করে দেওয়া হবে ।
 
 এটি মূলত একটি [গিটহাব রিপোজিটোরি](https://github.com/howtocode-com-bd/python.howtocode.com.bd)  যেখানে এই বইয়ের আর্টিকেল গুলো মার্কডাউন ফরম্যাটে লেখা হচ্ছে । রিপোজটরিটি ফর্ক করে পুল রিকুয়েস্ট পাঠানোর মাধ্যমে আপনারাও অবদান রাখতে পারেন ।
-
-আপনি যদি শুধুই পাঠক হন অথবা গিট সম্পর্কে ভালো আইডিয়া না থাকে, সেক্ষেত্রে পরিবর্তন বা পরিবর্ধন এর জন্য ইমেইল করুন - masnun [at] tdio.net - এই ঠিকানায় । মূল লেখক আপনার সাজেশন বিবেচনা করে প্রয়োজনীয় পরিবর্তন করে দিবেন ।
 
 <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fpython.howtocode.com.bd&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=21&amp;appId=353725671441956" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>
