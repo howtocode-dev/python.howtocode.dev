@@ -4,7 +4,7 @@
 
 # বাংলায় পাইথন
 
-<iframe scrolling="auto" frameborder="0" style="border:none; overflow:hidden; height:170px; width:100%; margin-left: 15;" allowTransparency="true" src="https://howtocode-bd.herokuapp.com/contrib/python"></iframe> 
+<iframe scrolling="auto" frameborder="0" style="border:none; overflow:hidden; height:170px; width:100%; margin-left: 15;" allowTransparency="true" src="http://api.howtocode.com.bd/contrib/python"></iframe> 
 
 
 #### প্রারম্ভিকা
