@@ -3,7 +3,7 @@
 * [পরিচিতি](README.md)
 * [ইনস্টলেশন](installation.md)
 * [কুইক টিপস](quick-tips.md)
-* [ব্যাসিক কনসেপ্ট](basic-operation.md)  
+* [ব্যাসিক কনসেপ্ট](basic-concept.md)  
 	* [সাধারণ কিছু অপারেশন](basic-operation.md) 
 	* [আরও কিছু নিউমেরিক অপারেশন](exp-operation.md)  
 	* [স্ট্রিং](#)
