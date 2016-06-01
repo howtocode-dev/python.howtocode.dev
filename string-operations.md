@@ -5,13 +5,13 @@
 পাইথনে সিঙ্গল বা ডাবল কোটেশন দুটোর মাধ্যমেই স্ট্রিং ডিফাইন করা যায় । তবে যেটি দিয়ে স্ট্রিং শুরু করবেন, শেষও করতে হবে সেটি দিয়েই । এক ধরণের কোটেশনের মধ্যে অন্য কোটেশন সরাসরি প্রিন্ট হয়ে যাবে । যে কোটেশন দিয়ে স্ট্রিং ব্যবহার করা হচ্ছে তার ভিতরে যদি ঐ কোটেশন চিহ্নটি কোন কারণে ব্যবহার করতে হয় তবে তার আগে একটি ব্যাক স্ল্যাশ ব্যবহার করতে হয় । আমরা কিছু উদাহরণ দেখি:
 
 ```python
-print "double quotation"
-print 'here is the single'
-print "single quote - ' in a double quoted string"
-print 'double quotes - " in a single quoted string'
+print("double quotation")
+print('here is the single')
+print("single quote - ' in a double quoted string")
+print('double quotes - " in a single quoted string')
 
-print "here comes the escaped quotes - \" "
-print 'here is the single one - \' '
+print("here comes the escaped quotes - \" ")
+print('here is the single one - \' ')
 ```
 
 একটি ফাইলে এই কোড টাইপ করে রান করে দেখুন কি আউটপুট দেখায় । এখানে ব্যাকস্ল্যাশ ব্যবহার করে আমরা কোট টাকে এড়িয়ে যেতে পারি তাই এটাকে (`\`) পাইথনে এস্কেইপ ক্যারেক্টার বলা হয় । 
@@ -26,7 +26,7 @@ print 'here is the single one - \' '
 rochona = """The cow is a domestic animal. It has four legs and a long tail and 
 We have a cow."""
 
-print rochona
+print(rochona)
 ```
 
 
@@ -35,7 +35,7 @@ print rochona
 পাইথনে আমরা কোন আউটপুট দেখাতে চাইলে প্রিন্ট স্টেটমেন্টটি ব্যবহার করে থাকি । উদাহরন:
 
 ```python
-print "Hello world!"
+print("Hello world!")
 ```
 
 
@@ -45,7 +45,7 @@ print "Hello world!"
 
 ```python 
 my_string = "Hello Python"
-print my_string[2]
+print(my_string[2])
 ```
 
 ### স্ট্রিং লেন্থ 
@@ -53,7 +53,7 @@ print my_string[2]
 যেহেতু স্ট্রিংও এক ধরনের বিশেষ লিস্ট, তাই এর লেন্থও একই ভাবে বের করা যায়। আমরা যদি my_string স্ট্রিংটির লেন্থ বের করতে চাই তাহলে নিচের মত করে `len()` ফাংশনটি ব্যবহার করবো: 
 
 ```python 
-print len(my_string)
+print(len(my_string))
 ```
 
 
@@ -63,10 +63,10 @@ print len(my_string)
 
 ```python
 big = "AAA"
-print big.lower()
+print(big.lower())
 
 small = "aaa"
-print small.upper()
+print(small.upper())
 ```
 
 সব পাইথন স্ট্রিং অবজেক্ট এর - `upper()` এবং `lower()` নামে দুটি মেথড থাকে । এদের কল করে আমরা ঐ স্ট্রিংকে আপার কেইস বা লোয়ার কেইসে কনভার্ট করতে পারি । 
@@ -85,13 +85,13 @@ email = "masnun@transcendio.net"
 এখন যদি আমরা এই তিনটি ভ্যারিয়েবল দিয়ে একটি অর্থবহ বাক্য প্রিন্ট করতে চাই, তাহলে আমাদের এরকম কিছু করতে হবে:
 
 ```python
-print "My name is " + name + ". I am " + str(age) + " years old. You can reach me via email - " + email
+print("My name is " + name + ". I am " + str(age) + " years old. You can reach me via email - " + email)
 ```
 
 দেখুন, এখানে আমরা অনেকগুলো ভ্যারিয়েবল যোগ করেছি একটা একটা করে । ভ্যারিয়েবল এর সংখ্যা বাড়লে কোড এর অবস্থা আরো অগোছালো হয়ে যাবে । তাছাড়া দেখুন `age` এর টাইপ স্ট্রিং না হওয়ায় এটাকে জোর করে স্ট্রিং করার প্রয়োজন হয়েছে। এই ঝামেলাপূর্ন ফরম্যাটিং এর কাজটাই আমরা খুব সহজে করতে পারি একটু অন্যভাবে । এক্ষেত্রে আমরা ঐ স্ট্রিংটিতে কিছু প্লেসহোল্ডার রাখবো, এবং পরে এই প্লেস হোল্ডার গুলোর স্থানে ভ্যারিয়েবলগুলোর ভ্যালু বসিয়ে প্রিন্ট করবো । উদাহরন দেখি:
 
 ``` python
-print "My name is %s, I am %d years old and my email address is %s " % (name, age, email)
+print("My name is %s, I am %d years old and my email address is %s " % (name, age, email))
 ```
 
 এখানে `%s` দিয়ে বোঝানো হয় যে এই জায়গাটায় একটা স্ট্রিং ভ্যালু বসবে, `%d` এর স্থানে ইন্টিজার । স্ট্রিং টি সম্পূর্ণ হওয়ার পর `%` এর পর আমাদের ভ্যারিয়েবল গুলো একটি টাপল এর মধ্যে পাস করে দিলেই হলো ।
@@ -101,7 +101,7 @@ print "My name is %s, I am %d years old and my email address is %s " % (name, ag
 স্ট্রিং এর ভিতরে আমরা বিশেষ কিছু ক্যারেক্টার ব্যবহার করতে পারি যেগুলো একটু ভিন্ন ধরনের । যেমন আমরা যদি নতুন লাইন তৈরি করতে চাই সেক্ষেত্রে আমরা নিউলাইন ক্যারেক্টার টি ব্যবহার করতে পারি - 
 
 ```python
-print "Hello\nWorld!"
+print("Hello\nWorld!")
 ```
 
 এখানে `\n` টি নিউলাইন ক্যারেক্টার । এমনি ভাবে `\t` দিয়ে নিউ ট্যাব ব্যবহার করা যায় । বিভিন্ন অপারেটিং সিস্টেমে এধরনের কিছু স্পেশাল ক্যারেক্টার থাকে যা আমরা সরাসরি পাইথন স্ট্রিং এ ব্যবহার করতে পারি । 
