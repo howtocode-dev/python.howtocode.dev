@@ -9,5 +9,8 @@
         "sidebar": {
             "সব কোর্স লিস্ট দেখুন": "http://www.howtocode.com.bd"
         }
+    },    
+    "styles": {
+        "website": "styles/website.css"
     }    
 }
