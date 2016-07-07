@@ -54,7 +54,7 @@
 	* [ডেকোরেটর](decorator.md)
 	* [রিকারসন](recursion.md)
 	* [সেট](set.md)
-	* [itertools](#)
+	* [itertools](itertools.md)
 * [অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং](#)
 	* [ক্লাস](#)
 	* [ইনহেরিটেন্স](#)
