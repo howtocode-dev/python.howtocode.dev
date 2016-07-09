@@ -10,7 +10,7 @@
 	* [স্ট্রিং](string.md)
 	* [ব্যাসিক ইনপুট আউটপুট](basic-input-output.md)
 	* [স্ট্রিং অপারেশন](string-operations.md)
-	* [টাইপ কনভার্সন](#)
+	* [টাইপ কনভার্সন](DataTypeConversion.md)
 	* [ভ্যারিয়েবল](variable.md)
 	* [ইনপ্লেস অপারেটর](#)
 	* [এডিটর এর ব্যবহার](#)
