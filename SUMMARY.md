@@ -1,7 +1,7 @@
 # Summary
 
 * [পরিচিতি](README.md)
-* [মাইন্ড ম্যাপ](http://bit.ly/py-map) 
+* [মাইন্ড ম্যাপ](python-mind-map.md) 
 * [ইনস্টলেশন](installation.md)
 * [কুইক টিপস](quick-tips.md)
 * [ব্যাসিক কনসেপ্ট](basic-concept.md)  
