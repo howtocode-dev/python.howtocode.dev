@@ -44,7 +44,39 @@ print(c)
 - `*` => `__mul__`
 - `/` => `__div__`
 
- 
+<br/><br/>	
+
+**ইনপ্লেইস অপারেটর ওভারলোডিং**   
+ইনপ্লেইস অপারেটরগুলোর জন্যও এরকম মেথড রয়েছে । এগুলো হলো: 
+
+- `__iadd__`
+- `__isub__`
+- `__imul__`
+- `__idiv__`
+
+ তাই আর ব্যখ্যায় না গিয়ে কোড দেখে ফেলি: 
+
+```python
+
+class MyInt():
+    def __init__(self, value):
+        self.__value = value
+
+    def __int__(self):
+        return self.__value
+
+
+    def __iadd__(self, other):
+        return self.__value + int(other) * int(other)
+
+
+a = MyInt(2)
+
+a += MyInt(3)
+
+print(a)
+```
+কোড রান করেই আন্দাজ করে বলতে পারবেন আউটপুট কি আসতে পারে?
 <br/><br/>
 
 <hr/>
