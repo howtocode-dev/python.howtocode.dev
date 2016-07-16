@@ -57,7 +57,7 @@
 	* [itertools](itertools.md)
 * [অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং](oop-python.md)
 	* [ক্লাস](class.md)
-	* ইনহেরিটেন্স
+	* [ইনহেরিটেন্স](inheritance.md)
 	* ম্যাজিক মেথড
 	* [অপারেটর অভারলোডিং](operator-overloading.md)
 	* অবজেক্ট লাইফ সাইকেল
