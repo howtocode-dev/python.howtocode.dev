@@ -1,10 +1,8 @@
 # Summary
 
 * [পরিচিতি](README.md)
-* [মাইন্ড ম্যাপ](python-mind-map.md) 
 * [ইনস্টলেশন](installation.md)
-* [কুইক টিপস](quick-tips.md)
-* [ব্যাসিক কনসেপ্ট](basic-concept.md)  
+* [ব্যাসিক কনসেপ্ট](basic-concept.md)
 	* [সাধারণ কিছু অপারেশন](basic-operation.md)
 	* [আরও কিছু নিউমেরিক অপারেশন](exp-operation.md)  
 	* [স্ট্রিং](string.md)
@@ -79,4 +77,5 @@
 * প্যাকেজিং](#)
 	* থার্ড পার্টি লাইব্রেরী
 	* প্যাকেজ
-	* ইউজারের জন্য প্যাকেজিং
+	* ইউজারের জন্য প্যাকেজিং   
+* [মাইন্ড ম্যাপ](python-mind-map.md) 
