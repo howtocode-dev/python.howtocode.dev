@@ -41,6 +41,6 @@ AttributeError: can't set attribute
 
 ```python
 False
-Enter the password: 123456
+Enter the password: Sw0rdf1sh!
 True
 ```
