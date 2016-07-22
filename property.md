@@ -32,7 +32,7 @@ AttributeError: can't set attribute
 
 উদাহরণ, 
 
-<script src="https://gist.github.com/nuhil/ad5e21c37ee4ac3aee5f6517d0d2faff.js"></script>   
+<img src="property.png" alt="cover" />   
 
 উপরের প্রোগ্রামে, প্রথমত ৭ নাম্বার লাইনে `pineapple_allowed` মেথডকে একটি প্রোপার্টি ডিফাইন করা হয়েছে। এতে করে, ২০ নাম্বার লাইনে এই প্রোপার্টির ভ্যালু অ্যাক্সেস করতে গেলে বস্তুত `pineapple_allowed` মেথডটি কল হয় এবং যা পক্ষান্তরে `self._pineapple_allowed = False` এর উপর ভিত্তি করে `False` রিটার্ন করে।    
 এরপর, ১০ নাম্বার লাইনে, `@pineapple_allowed.setter` ডেকোরেটর ব্যবহার করে ওই প্রোপার্টির জন্য একটি `setter` মেথড ডিফাইন করা হয়েছে। আর তাই, ২১ নাম্বার লাইনে `pizza.pineapple_allowed = True` স্টেটমেন্ট এক্সিকিউট হবার সময় আসলে `pineapple_allowed` সেটার মেথডটি কল হচ্ছে।  এই মেথডটি ১৫ নাম্বার লাইনে, `_pineapple_allowed` নামের প্রাইভেট ভ্যারিয়েবলের মান বদলে দেয় যার প্রমাণ পাওয়া যায় ২২ নাম্বার লাইনে নতুন করে `print(pizza.pineapple_allowed)` প্রিন্টের মাধ্যমে।   
