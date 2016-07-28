@@ -11,7 +11,7 @@
 	* [টাইপ কনভার্সন](DataTypeConversion.md)
 	* [ভ্যারিয়েবল](variable.md)
 	* [ইনপ্লেস অপারেটর](inplace-operator.md)
-	* এডিটর এর ব্যবহার
+	* [এডিটর এর ব্যবহার](using-editor.md)
 * [কন্ট্রোল স্ট্রাকচার](control-structure.md)
 	* [বুলিয়ান](Boolean.md)
 	* if স্টেটমেন্ট
