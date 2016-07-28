@@ -13,7 +13,7 @@
 	* [ইনপ্লেস অপারেটর](inplace-operator.md)
 	* [এডিটর এর ব্যবহার](using-editor.md)
 * [কন্ট্রোল স্ট্রাকচার](control-structure.md)
-	* [বুলিয়ান](Boolean.md)
+	* [বুলিয়ান](boolean.md)
 	* if স্টেটমেন্ট
 	* else স্টেটমেন্ট
 	* বুলিয়ান লজিক
