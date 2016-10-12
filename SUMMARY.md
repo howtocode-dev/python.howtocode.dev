@@ -19,7 +19,7 @@
 	* [বুলিয়ান লজিক](boolean-logic.md)
 	* [অপারেটর প্রেসিডেন্স](operator-precedence.md)
 	* [while লুপ](while-loop.md)
-	* লিস্ট
+	* [লিস্ট](list.md)
 	* লিস্ট অপারেশন
 	* লিস্ট ফাংশন
 	* রেঞ্জ
