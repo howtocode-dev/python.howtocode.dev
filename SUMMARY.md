@@ -20,7 +20,7 @@
 	* [অপারেটর প্রেসিডেন্স](operator-precedence.md)
 	* [while লুপ](while-loop.md)
 	* [লিস্ট](list.md)
-	* লিস্ট অপারেশন
+	* [লিস্ট অপারেশন](list-operation.md)
 	* লিস্ট ফাংশন
 	* রেঞ্জ
 	* for লুপ
