@@ -9,7 +9,7 @@
             "url": "https://github.com/howtocode-com-bd/python.howtocode.com.bd"
         },
         "edit-link": {
-            "base": "https://github.com/USER/REPO/edit/BRANCH/path/to/book",
+            "base": "https://github.com/howtocode-com-bd/python.howtocode.com.bd",
             "label": "চ্যাপ্টারটি আপডেট করুন"
         }        
 	},
