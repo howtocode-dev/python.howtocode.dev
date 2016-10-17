@@ -1,10 +1,13 @@
 {
 	"gitbook": "2.x.x",
-	"plugins": ["disqus"],
+	"plugins": ["disqus", "github"],
 	"pluginsConfig": {
 		"disqus": {
 			"shortName": "howtocode-com-bd"
-		}
+		},
+        "github": {
+            "url": "https://github.com/howtocode-com-bd/python.howtocode.com.bd"
+        }        
 	},
 	"links": {
 		"sidebar": {
