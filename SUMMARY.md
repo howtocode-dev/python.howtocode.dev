@@ -24,8 +24,8 @@
    * [লিস্ট ফাংশন](list-function.md)
    * [রেঞ্জ](range.md)
    * [for লুপ](for-loop.md)
-* ফাংশন ও মডিউল
-   * কোডের পুনব্যবহার
+* [ফাংশন ও মডিউল](function-and-module.md)
+   * [কোডের পুনব্যবহার](code-reuse.md)
    * [ফাংশন](functions.md)
    * ফাংশন আর্গুমেন্ট
    * ফাংশন রিটার্ন
