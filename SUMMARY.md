@@ -27,8 +27,8 @@
 * [ফাংশন ও মডিউল](function-and-module.md)
    * [কোডের পুনব্যবহার](code-reuse.md)
    * [ফাংশন](functions.md)
-   * ফাংশন আর্গুমেন্ট
-   * ফাংশন রিটার্ন
+   * [ফাংশন আর্গুমেন্ট](function-argument.md)
+   * [ফাংশন রিটার্ন](function-return.md)
    * কমেন্ট
    * অবজেক্ট হিসেবে ফাংশন
    * মডিউল
