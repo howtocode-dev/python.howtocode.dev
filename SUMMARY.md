@@ -34,7 +34,7 @@
    * [মডিউল](module.md)
    * [স্ট্যান্ডার্ড লাইব্রেরী](standard-library.md)
    * [pip](pip.md)
-* ফাইল ও এক্সেপশন
+* [ফাইল ও এক্সেপশন](file-exception.md)
    * এক্সেপশন
    * এক্সেপশন হ্যান্ডেলিং
    * finally
