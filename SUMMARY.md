@@ -31,7 +31,7 @@
    * [ফাংশন রিটার্ন](function-return.md)
    * [কমেন্ট ও ডক স্ট্রিং](comment-docstring.md)
    * [অবজেক্ট হিসেবে ফাংশন](function-as-object.md)
-   * মডিউল
+   * [মডিউল](module.md)
    * স্ট্যান্ডার্ড লাইব্রেরী
    * pip
 * ফাইল ও এক্সেপশন
