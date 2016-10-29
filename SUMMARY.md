@@ -46,7 +46,7 @@
    * [এক্সেপশন](exception.md)
    * [এক্সেপশন হ্যান্ডেলিং](exception-handling.md)
    * [finally](finally.md)
-   * এক্সেপশন Raise
+   * [এক্সেপশন Raise](raise-exception.md)
    * Assertions
    * ফাইল খোলা
    * ফাইল পড়া
