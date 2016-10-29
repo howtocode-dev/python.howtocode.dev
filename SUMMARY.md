@@ -37,9 +37,9 @@
 * [ফাইল ও এক্সেপশন](file-exception.md)
    * [এক্সেপশন](exception.md)
    * [এক্সেপশন হ্যান্ডেলিং](exception-handling.md)
-   * finally
+   * [finally](finally.md)
    * এক্সেপশন Raise
-   * Assestions
+   * Assertions
    * ফাইল খোলা
    * ফাইল পড়া
    * ফাইলে লেখা
