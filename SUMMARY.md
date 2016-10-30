@@ -25,7 +25,7 @@
    * [রেঞ্জ](range.md)
    * [for লুপ](for-loop.md)
 * [গুরুত্বপূর্ণ ডাটা টাইপ](data-types.md)
-	* None
+	* [None](none.md)
 	* ডিকশনারি 
 	* ডিকশনারি ফাংশন
 	* টাপল
