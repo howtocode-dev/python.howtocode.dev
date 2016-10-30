@@ -48,10 +48,10 @@
    * [finally](finally.md)
    * [এক্সেপশন Raise](raise-exception.md)
    * [Assertions](assertions.md)
-   * ফাইল খোলা
-   * ফাইল পড়া
-   * ফাইলে লেখা
-   * ফাইল নিয়ে আরও কাজ
+   * [ফাইল খোলা](open-file.md)
+   * [ফাইল পড়া](read-file.md)
+   * [ফাইলে লেখা](write-file.md)
+   * [ফাইল নিয়ে সঠিক কাজ](dealing-file.md)
 * [ফাংশনাল প্রোগ্রামিং](func-prog.md)
    * [ভূমিকা](func-prog-intro.md)
    * [ল্যামডা](lambda.md)
