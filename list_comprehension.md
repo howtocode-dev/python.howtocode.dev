@@ -129,24 +129,27 @@ print(''.join(filtered_letters))
 
 #### আউটপুট
 
-```python
-In [5]: print(''.join(filtered_letters))
+```
 I m wsm!
 ```
 
 **লিস্ট কম্প্রিহেনশন ব্যবহার করে**
 
 ```python
-In [23]: vowels = 'aeiou'
+vowels = 'aeiou'
 
-In [24]: sentence = 'I am awesome'
+sentence = 'I am awesome'
 
-In [25]: filtered_sentence = ''.join([letter for letter in sentence if letter not in vowels])
+filtered_sentence = ''.join([letter for letter in sentence if letter not in vowels])
 
-In [26]: filtered_sentence
-Out[26]: 'I m wsm'
+print(filtered_sentence)
 ```
 
+#### আউটপুট
+
+```
+I m wsm
+```
 
 ### ডিকশনারি কম্প্রিহেনশন
 
@@ -172,14 +175,19 @@ print(fruit_rank_dict)
 **লিস্ট কম্প্রিহেনশন** ব্যবহার করে,
 
 ```python
-In [32]: fruit_ranking = [1, 2, 3]
+fruit_ranking = [1, 2, 3]
 
-In [33]: fruit = ['Mango', 'Pineapple', 'Watermelon']
+fruit = ['Mango', 'Pineapple', 'Watermelon']
 
-In [34]: fruit_ranking_dict = { fruit_ranking[i] : fruit[i] for i in range(len(fruit_ranking)) }
+fruit_ranking_dict = { fruit_ranking[i] : fruit[i] for i in range(len(fruit_ranking)) }
 
-In [35]: fruit_ranking_dict
-Out[35]: {1: 'Mango', 2: 'Pineapple', 3: 'Watermelon'}
+print(fruit_ranking_dict) 
+```
+
+#### আউটপুট
+
+```
+{1: 'Mango', 2: 'Pineapple', 3: 'Watermelon'}
 ```
 
 কোন কোন ক্ষেত্রে লিস্ট কম্প্রিহেনশন ব্যবহার করা শুধু সুবিধাজনক তা-ই নয়, সিম্পল এক্সপ্রেশনে এটা ফর লুপের চেয়েও ফাস্ট। কম্পলেক্স এক্সপ্রেশনে ফর লুপ আর লিস্ট কম্প্রিহেনশনের পারফর্মেন্স প্রায় একই। 
