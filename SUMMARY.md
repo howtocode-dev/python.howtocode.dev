@@ -30,7 +30,7 @@
 	* ডিকশনারি ফাংশন
 	* টাপল
 	* আবারও লিস্ট
-	* [লিস্ট কম্প্রিহেনসন](list_comprehension.md)
+	* [লিস্ট কম্প্রিহেনশন](list_comprehension.md)
 	* স্ট্রিং ফরম্যাটিং   
 * [ফাংশন ও মডিউল](function-and-module.md)
    * [কোডের পুনব্যবহার](code-reuse.md)
