@@ -15,10 +15,13 @@
 	},
 	"links": {
 		"sidebar": {
-			"সব কোর্স লিস্ট দেখুন": "http://www.howtocode.com.bd"
+			"অন্যান্য কোর্স": "http://www.howtocode.com.bd",
+			"আমাদের ব্লগ": "https://blog.howtocode.com.bd/",
+			"এই কোর্সের মুল পাতা": "https://python.howtocode.com.bd" 
 		}
 	},    
 	"styles": {
 		"website": "styles/website.css"
 	}    
 }
+
