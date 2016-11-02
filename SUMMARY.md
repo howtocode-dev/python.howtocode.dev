@@ -28,7 +28,7 @@
 	* [None](none.md)
 	* [ডিকশনারি](dictionary.md) 
 	* [ডিকশনারি ফাংশন](dictionary-function.md)
-	* টাপল
+	* [টাপল](tuple.md)
 	* আবারও লিস্ট
 	* [লিস্ট ও ডিকশনারি কম্প্রিহেনশন](list-dict-comprehension.md)
 	* স্ট্রিং ফরম্যাটিং   
