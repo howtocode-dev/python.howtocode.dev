@@ -27,10 +27,10 @@
 * [গুরুত্বপূর্ণ ডাটা টাইপ](data-types.md)
 	* [None](none.md)
 	* [ডিকশনারি](dictionary.md) 
-	* ডিকশনারি ফাংশন
+	* [ডিকশনারি ফাংশন](dictionary-function.md)
 	* টাপল
 	* আবারও লিস্ট
-	* [লিস্ট কম্প্রিহেনশন](list_comprehension.md)
+	* [লিস্ট ও ডিকশনারি কম্প্রিহেনশন](list-dict-comprehension.md)
 	* স্ট্রিং ফরম্যাটিং   
 * [ফাংশন ও মডিউল](function-and-module.md)
    * [কোডের পুনব্যবহার](code-reuse.md)
