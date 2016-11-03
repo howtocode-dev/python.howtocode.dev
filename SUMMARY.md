@@ -31,7 +31,6 @@
 	* [টাপল](tuple.md)
 	* [আবারও লিস্ট](more-list-opt.md)
 	* [লিস্ট ও ডিকশনারি কম্প্রিহেনশন](list-dict-comprehension.md)
-	* স্ট্রিং ফরম্যাটিং   
 * [ফাংশন ও মডিউল](function-and-module.md)
    * [কোডের পুনব্যবহার](code-reuse.md)
    * [ফাংশন](functions.md)

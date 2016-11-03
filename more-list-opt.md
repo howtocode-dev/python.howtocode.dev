@@ -78,3 +78,26 @@ print(values[::-1])
 [8, 7, 6, 5, 4, 3]
 ```  
 
+**লিস্টের উপর করা কিছু নিউমেরিক অপারেশন**  
+আশা করছি নিচের উদাহরণটির মধ্যে থাকা কমেন্ট গুলো দেখেই সবাই বুঝতে পারবেন প্রত্যেকটি মজার এবং গুরুত্বপূর্ণ ফাংশনের কাজ - 
+
+```python
+# Prints the minimum value among all the elements of the below Tuple
+print(min[1, 2, 3, 4, 0, 2, 1])
+
+# Prints the maximum value among all the elements of the following list
+print(max([1, 4, 9, 2, 5, 6, 8]))
+
+# Print sum of all the elements of the following list
+print(sum([1, 2, 3, 4, 5]))
+```   
+
+আউটপুট,  
+
+```python
+0
+9
+15
+```  
+
+>  সংকলন - [নুহিল মেহেদী](https://nuhil.net)
