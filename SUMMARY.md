@@ -75,10 +75,13 @@
    * [ক্যারেক্টার ক্লাস](regex-char-class.md)
    * [গ্রুপ](regex-group.md)
    * [স্পেশাল সিকুয়েন্স](regex-special-sequence.md)
-* প্যাকেজ
-* ইউজারের জন্য প্যাকেজিং
+* [প্যাকেজ](package.md)
+* [ইউজারের জন্য প্যাকেজিং](packaging-for-user.md)
 * [পাইথনিকনেস](pythonic.md)   
-* অতিরিক্ত কিছু বিষয়   
+* [অতিরিক্ত কিছু বিষয়](faq.md)   
    * [PEP](pep.md)   
    * [`__main__`](whats-main.md)   
-
+   * [`# -*- coding: utf-8 -*-`](encoding.md)  
+   * [#! /usr/bin/env python](env.md) 
+   * [`CPython`](cpython.md)   
+   * [ডকুমেন্টেশন পড়া](how-to-read-doc.md)   
