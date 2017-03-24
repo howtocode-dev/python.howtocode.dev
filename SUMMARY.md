@@ -82,6 +82,6 @@
    * [PEP](pep.md)   
    * [`__main__`](whats-main.md)   
    * [`# -*- coding: utf-8 -*-`](encoding.md)  
-   * [#! /usr/bin/env python](env.md) 
+   * [`#! /usr/bin/env python`](env.md) 
    * [`CPython`](cpython.md)   
    * [ডকুমেন্টেশন পড়া](how-to-read-doc.md)   
