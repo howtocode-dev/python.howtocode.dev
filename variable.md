@@ -40,8 +40,8 @@ Hello There
 পাইথনে ভ্যারিয়েবল লেখার সময় কিছু নিয়ম মেনে ভ্যারিয়েবল ডিফাইন করা হয়।
 
  - পাইথন Case Sensitive অর্থাৎ `a = 4` এবং `A = 4` একই ভ্যারিয়েবল না।
- - প্রথম অক্ষর অবশ্যই একটি alphabet(uppercase or lowercase) হতে হবে । যেমনঃ `nafis`, `a`, `b` লেখা যাবে ভ্যারিয়েবল হিসেবে কিন্তু `1name`, `@nafis`, `7a`, `%b` এই ভাবে লেখা যাবে না ।  underscore ( `_` ) ছাড়া অন্য কোন বিশেষ  চিহ্ন ব্যাবহার করা যাবে না ।
- - কোন পাইথন কী-ওয়ার্ড ব্যবহার করা যাবে না । যেমনঃ `if`, `else`, `elif`, `for`, `while`, `break`, `continue`, `except`, `as`, `in`, `is`, `True`, `False`, `yield`, `None`, `def`, `del`, `class` ইত্যাদি।
+ - প্রথম অক্ষর অবশ্যই একটি alphabetic letter(uppercase or lowercase) অথবা underscore ( `_` ) হতে হবে । যেমনঃ `nafis`, `a`, `b`, `_variable` লেখা যাবে ভ্যারিয়েবল হিসেবে কিন্তু `1name`, `@nafis`, `7a`, `%b` এই ভাবে লেখা যাবে না । প্রথম অক্ষর ছাড়া পরে letter, underscore, number ব্যবহার করা যাবে। যেমনঃ `variable1`, `my_variable`, `not_Very_Good_Name10`
+ - পাইথনের কিছু reserved কী-ওয়ার্ড আছে, এগুলো ব্যবহার করা যাবে না । যেমনঃ `if`, `else`, `elif`, `for`, `while`, `break`, `continue`, `except`, `as`, `in`, `is`, `True`, `False`, `yield`, `None`, `def`, `del`, `class` ইত্যাদি।
 
 উদাহরণ,
 
