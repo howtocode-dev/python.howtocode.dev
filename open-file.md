@@ -46,7 +46,7 @@ file_to_work = open("filename.txt", "w")
 # such as write new lines in it
 
 # then close it
-file.close()
+file_to_work.close()
 ```  
 
 >  সংকলন - [নুহিল মেহেদী](https://nuhil.net)
