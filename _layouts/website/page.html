@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Test {% block title %}{{ config.title|d("GitBook", true) }}{% endblock %}</title>
+        <title>{% block title %}{{ config.title|d("GitBook", true) }}{% endblock %}</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="{% block description %}{% endblock %}">
         <meta name="generator" content="GitBook {{ gitbook.version }}">
@@ -19,6 +19,15 @@
             {% endfor %}
         {% endblock %}
         {% block head %}{% endblock %}
+        
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3350277075217187",
+            enable_page_level_ads: true
+          });
+        </script>        
+        
     </head>
     <body>
         {% block body %}{% endblock %}
