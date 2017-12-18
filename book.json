@@ -5,13 +5,13 @@
 		"disqus": {
 			"shortName": "howtocode-com-bd"
 		},
-        	"github": {
-            		"url": "https://github.com/howtocode-com-bd/python.howtocode.com.bd"
-        	},
-        	"edit-link": {
-            		"base": "https://github.com/howtocode-com-bd/python.howtocode.com.bd/blob/master",
-            		"label": "চ্যাপ্টারটি আপডেট করুন"
-        	},
+		"github": {
+				"url": "https://github.com/howtocode-com-bd/python.howtocode.com.bd"
+		},
+		"edit-link": {
+				"base": "https://github.com/howtocode-com-bd/python.howtocode.com.bd/blob/master",
+				"label": "চ্যাপ্টারটি আপডেট করুন"
+		},
 		"adsense": {
             		"client": "ca-pub-3350277075217187",
             		"slot": "8566812120",
