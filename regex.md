@@ -6,5 +6,5 @@
 * [পরিচিতি](regex-intro.md)
 * [মেটা ক্যারেক্টার](meta-characters.md)
 * [ক্যারেক্টার ক্লাস](regex-char-class.md)
-* গ্রুপ
-* স্পেশাল সিকুয়েন্স
+* [গ্রুপ](regex-group.md)
+* [স্পেশাল সিকুয়েন্স](regex-special-sequence.md)
