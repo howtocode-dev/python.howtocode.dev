@@ -7,14 +7,6 @@
 
 আরও নির্দিষ্ট করে বলতে গেলে - [Django](https://www.djangoproject.com/), [Flask](http://flask.pocoo.org/), [Tornado](http://www.tornadoweb.org/en/stable/) ইত্যাদি ফ্রেমওয়ার্ক এর মাধ্যমে ওয়েব অ্যাপ্লিকেশন ডেভেলপমেন্ট করতে চাইলে পাইথন জানা অবশ্যই গুরুত্বপূর্ণ। আবার ডেস্কটপ বা গ্রাফিক্যাল ইউজার ইন্টারফেইস সমৃদ্ধ সফটওয়্যার ডেভেলপমেন্টের জন্য পাইথন প্রোগ্রামিং এর জ্ঞানকে ব্যবহার করা যাবে [PyQT](https://riverbankcomputing.com/software/pyqt/download) এর মত টুলকিট বা [Tkinter](http://tkinter.unpythonic.net/wiki/Tkinter) এর মত প্যাকেজ  এর সাথে। আরও আছে [Kivy](https://kivy.org/#home) এর মত লাইব্রেরী।   
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-3350277075217187",
-          enable_page_level_ads: true
-     });
-</script>
-
 বর্তমানে বহুল আলোচিত এবং ভবিষ্যতের প্রযুক্তির ভিত্তি ডাটা সায়েন্স এবং মেশিন লার্নিং, সর্বোপরি আর্টিফিশিয়াল ইন্টেলিজেন্স নিয়ে কাজ করতে চাইলে পাইথন হতে পারে নির্দ্বিধায় প্রথম পছন্দের প্ল্যাটফর্ম। কারণ, [scikit-learn](http://scikit-learn.org/stable/) এর মত মেশিন লার্নিং লাইব্রেরী, [Pandas](http://pandas.pydata.org/) এর মত ডাটা ফ্রেম লাইব্রেরী, [Numpy](http://www.numpy.org/) এর মত ক্যালকুলেশন লাইব্রেরী যেগুলো এক কথায় অনন্য- এসবই আছে পাইথনের জন্য।
 
 সিরিয়াস লোকজন ইন্টারনেট অফ থিংস নিয়ে কাজ করতে চাইলেও রাস্পবেরি-পাই, বা এরকম হার্ডওয়্যার প্ল্যাটফর্ম গুলোর সাথে পাইথনের কম্বিনেশন হতে পারে চমৎকার। আছে [RPi.GPIO](https://pypi.python.org/pypi/RPi.GPIO). আর মজার লোকজনের গেম ডেভেলপমেন্ট এর জন্য আছে [PyGame](http://pygame.org/hifi.html).
