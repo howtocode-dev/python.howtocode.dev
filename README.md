@@ -1,6 +1,4 @@
-<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fhowtocode.com.bd%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=353725671441956" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>  
-
-**Lead Author**   
+** প্রধান লেখক ও সমন্বয়ক**   
 [Nuhil Mehdy](https://nuhil.net/)   
 
 [পাইথন](https://www.python.org/) একটি ডায়নামিক প্রোগ্রামিং ল্যাঙ্গুয়েজ যেটি জয় করেছে বহু ডেভেলপারের হৃদয় । এর মধ্যে আছে গুগল, ড্রপবক্স, ইন্সটাগ্রাম, মোজিলা সহ অনেক বড় বড়  প্রতিষ্ঠানের হাজারো প্রকৌশলী । পাইথন এমন একটি ভাষা যার গঠন শৈলী অনন্য এবং প্রকাশভঙ্গি অসাধারণ । চমৎকার এই ল্যাঙ্গুয়েজটি তাই আজ ছড়িয়ে পড়েছে নানা দিকে - ওয়েব, ডেস্কটপ, মোবাইল, সিস্টেম এ্যাডমিনিস্ট্রেশন, সাইন্টিফিক কম্পিউটিং কিংবা [মেশিন লার্নিং](https://ml.howtocode.com.bd/) - সবর্ত্রই পাইথনের দৃপ্ত পদচারণা।   
